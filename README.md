@@ -8,7 +8,6 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Customization](#customization)
@@ -18,22 +17,6 @@
 ## Description
 
 Woo Charge Tax on Pre Coupon Subtotal is a WooCommerce plugin designed to address a common issue where tax calculations are reduced when coupons are applied, potentially lowering the total tax paid by the customer. This plugin ensures that tax is calculated based on the subtotal before any discounts or coupons are applied, enforcing accurate tax collection.
-
-## Installation
-
-1. **Download the Plugin:**
-   - Download the plugin from this repository or the WordPress plugin directory.
-
-2. **Upload via WordPress Admin:**
-   - Log in to your WordPress admin dashboard.
-   - Navigate to `Plugins > Add New > Upload Plugin`.
-   - Choose the downloaded ZIP file and click "Install Now".
-   - Once installed, click "Activate Plugin".
-
-3. **Upload via FTP:**
-   - Unzip the downloaded plugin file.
-   - Upload the unzipped folder to the `/wp-content/plugins/` directory on your server.
-   - Go to `Plugins` in your WordPress admin and activate the plugin.
 
 ## Usage
 
